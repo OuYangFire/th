@@ -1,0 +1,6 @@
+com/ouyang/ssm/dao/IOrderDao.class
+com/ouyang/ssm/dao/ITravellerDao.class
+com/ouyang/ssm/dao/IUserDao.class
+com/ouyang/ssm/dao/IProductDao.class
+com/ouyang/ssm/dao/IMemberDao.class
+com/ouyang/ssm/dao/IRoleDao.class
